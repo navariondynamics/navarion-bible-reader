@@ -1,5 +1,5 @@
 const CACHE =
-  "bible-reader-v3";
+  "bible-reader-v4";
 
 
 const APP_SHELL = [
@@ -20,7 +20,9 @@ const APP_SHELL = [
 
   "./icons/icon-192.png",
 
-  "./icons/icon-512.png"
+  "./icons/icon-512.png",
+  
+  "./icons/apple-touch-icon-180.png"
 
 ];
 
